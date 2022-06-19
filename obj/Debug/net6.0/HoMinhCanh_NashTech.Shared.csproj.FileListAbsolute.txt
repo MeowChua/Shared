@@ -1,0 +1,12 @@
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/HoMinhCanh_NashTech.Shared.csproj.AssemblyReference.cache
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/HoMinhCanh_NashTech.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/HoMinhCanh_NashTech.Shared.AssemblyInfoInputs.cache
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/HoMinhCanh_NashTech.Shared.AssemblyInfo.cs
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/HoMinhCanh_NashTech.Shared.csproj.CoreCompileInputs.cache
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/bin/Debug/net6.0/HoMinhCanh_NashTech.Shared.deps.json
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/bin/Debug/net6.0/HoMinhCanh_NashTech.Shared.dll
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/bin/Debug/net6.0/HoMinhCanh_NashTech.Shared.pdb
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/HoMinhCanh_NashTech.Shared.dll
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/refint/HoMinhCanh_NashTech.Shared.dll
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/HoMinhCanh_NashTech.Shared.pdb
+/Users/hominhcanh/Projects/HoMinhCanh_NashTech/HoMinhCanh_NashTech/Shared/obj/Debug/net6.0/ref/HoMinhCanh_NashTech.Shared.dll
